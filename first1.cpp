@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main() {
+cout<<"Enter to integer values : ";
+int a,b,t,m;
+m=a*b,t=a=b;
+cout<<"total : "<<t<<endl;
+cout<<"multibly : "<<m<<endl;
+}
